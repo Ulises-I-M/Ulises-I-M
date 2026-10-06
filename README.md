@@ -53,7 +53,8 @@ Frontend developer & UX/UI designer with **2.5 years of experience** building re
 | Proyecto | Qué es |
 |---|---|
 | [**ShiftReport**](https://github.com/Ulises-I-M/ShiftReport) | Web app para que operadores de planta industrial generen reportes de turno con asistencia de IA, detección de anomalías y exportación a PDF/DOCX. |
-| [**Portfolio**](https://github.com/Ulises-I-M/Portfolio) | Mi portfolio personal en React + TypeScript. [Ver online →](https://ulises-portfolio.netlify.app/) |
+| [**IoT App**](https://github.com/nicovon24/iot_app) | Plataforma IoT industrial sobre ThingsBoard con un frontend multi-dashboard propio, hecha junto a [@nicovon24](https://github.com/nicovon24). Me encargué del frontend y la UX. [Ver demo →](https://iot-app-frontend.vercel.app) |
+| [**Portfolio**](https://github.com/Ulises-I-M/Portfolio) | Mi portfolio personal en Next.js, TypeScript, Tailwind CSS y Framer Motion. [Ver online →](https://ulises-portfolio.netlify.app/) |
 | [**AIR-ecommerce**](https://github.com/Ulises-I-M/AIR-ecommerce) | Maqueta de e-commerce en HTML, CSS y JavaScript vanilla. |
 
 ---
